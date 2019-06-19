@@ -16,4 +16,4 @@
 // });
 
 Route::get('/', ['as'=>'webhooks', 'uses'=>'WebhooksController@index']);
-Route::any('webhooks', 'WebhooksController@hundler');
+Route::any('webhooks', 'WebhooksController@handler');
