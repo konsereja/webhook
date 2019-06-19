@@ -1,0 +1,144 @@
+Array
+(
+    [leads] => Array
+        (
+            [update] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 24957953
+                            [name] => test
+                            [status_id] => 21608164
+                            [old_status_id] => 15441022
+                            [price] => 0
+                            [responsible_user_id] => 449371
+                            [last_modified] => 1560932665
+                            [modified_user_id] => 449371
+                            [created_user_id] => 449371
+                            [date_create] => 1560930156
+                            [pipeline_id] => 247438
+                            [account_id] => 8838928
+                            [custom_fields] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [id] => 636437
+                                            [name] => Ширина
+                                            [values] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [value] => 33
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [id] => 636439
+                                            [name] => Длина
+                                            [values] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [value] => 32
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [subdomain] => dlatestov
+            [id] => 8838928
+            [_links] => Array
+                (
+                    [self] => https://dlatestov.amocrm.ru
+                )
+
+        )
+
+)
+Array
+(
+    [leads] => Array
+        (
+            [update] => Array
+                (
+                    [0] => Array
+                        (
+                            [id] => 24957953
+                            [name] => test
+                            [status_id] => 15441022
+                            [old_status_id] => 21608164
+                            [price] => 0
+                            [responsible_user_id] => 449371
+                            [last_modified] => 1560932974
+                            [modified_user_id] => 0
+                            [created_user_id] => 449371
+                            [date_create] => 1560930156
+                            [pipeline_id] => 247438
+                            [account_id] => 8838928
+                            [custom_fields] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [id] => 636437
+                                            [name] => Ширина
+                                            [values] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [value] => 33
+                                                        )
+
+                                                )
+
+                                        )
+
+                                    [1] => Array
+                                        (
+                                            [id] => 636439
+                                            [name] => Длина
+                                            [values] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [value] => 32
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [account] => Array
+        (
+            [subdomain] => dlatestov
+            [id] => 8838928
+            [_links] => Array
+                (
+                    [self] => https://dlatestov.amocrm.ru
+                )
+
+        )
+
+)
