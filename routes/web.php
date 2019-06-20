@@ -17,3 +17,5 @@
 
 Route::get('/', ['as'=>'webhooks', 'uses'=>'WebhooksController@index']);
 Route::any('webhooks', 'WebhooksController@handler');
+Route::get('amoapi', 'AmoapisController@index');
+Route::post('amoapi', ['as'=>'amoapi.handler', 'uses'=>'AmoapisController@handler']);

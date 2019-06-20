@@ -13,6 +13,10 @@
 <!-- Styles -->
 <link href="./css/app.css" rel="stylesheet" type="text/css">
 <link href="./css/style.css" rel="stylesheet" type="text/css">
+<meta name="csrf-token" content="{{ csrf_token() }}">
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+<script src="./js/script.js"></script>
 
 </head>
 <body>
